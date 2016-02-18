@@ -33,7 +33,7 @@ class Caboose {
          'lightbox' => array(
             'css' => 'jquery.lightbox-0.5.css',
             'js' => 'jquery.lightbox-0.5.min.js',
-            'template' => 'lightbox'
+            'template' => 'jrating'
         ),
        'confirm' => array(
             'css' => '',
